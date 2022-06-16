@@ -2,6 +2,4 @@
 
 <h3 align=center> Esse projeto visando a manipulação do DOM cria uma página com darkMode e lightMode. Foram usados HTML, CSS e Javascript para seu desenvolvimento. </h3>
 
-<img align=center>
-https://user-images.githubusercontent.com/80493617/173964347-3ebce619-cd7e-429c-bc1b-bd1a91fd5e42.gif
-</img>
+<img align="center" src="https://user-images.githubusercontent.com/80493617/173964423-28cf68c0-e4af-4ef3-a9cd-725275c9028f.gif"/>
