@@ -1,6 +1,20 @@
-<h1> Dark Mode </h1>
+# Dark Mode 
 
-<h3> Esse projeto visando a manipulação do DOM cria uma página com darkMode e lightMode. Foram usados HTML, CSS e Javascript para seu desenvolvimento. </h3>
+## Sobre
 
-https://user-images.githubusercontent.com/80493617/212066113-f0db4af0-c80e-462a-b60d-d2e081adf184.mp4
+### Esse projeto visando a manipulação do DOM cria uma página com darkMode e lightMode. Foram usados HTML, CSS e Javascript para seu desenvolvimento. 
+
+## Como usar
+
+### 1. Clonar o projeto em sua máquina:
+
+```
+git clone https://github.com/isamsm/dark_mode
+```
+
+### 2. Acessar o ambiente local:
+
+localhost:3000 no seu navegador.
+
+E pronto, dessa forma você já terá o projeto rodando em sua máquina!
 
